@@ -4,7 +4,7 @@ function saludar() {
   alert("Gracias por visitar mi portafolio");
 }
 
-document.addEventListener("DOMContentLoaded", saludar);
+document.addEventListener("DOMContentLoaded", saludarUnaVez);
 function resaltarMenuActivo() {
   console.log("Resaltando el enlace activo del menu");
 }
